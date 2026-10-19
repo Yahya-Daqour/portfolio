@@ -1,0 +1,32 @@
+YAHYA DAQOUR
+Data Scientist and Machine Learning Engineer
+Amman, Jordan · yahyadaqour@gmail.com
+
+PROFILE
+Machine Learning Engineer with 4+ years' experience in end-to-end ML system design,
+on-device AI deployment, and research-to-production solutions, with patents, global
+competition awards, and frontend expertise.
+
+EXPERIENCE
+Senior AI / Machine Learning Engineer · channels by stc · Nov 2025 — Present
+Machine Learning Engineer · Samsung Research and Development Institute Jordan · May 2022 — Nov 2025
+Research Assistant · Jordan University of Science and Technology · Sep 2021 — Jun 2022
+
+EDUCATION
+B.Sc. Computer Science, Jordan University of Science and Technology · 2018 — 2022 (GPA 3.85)
+Erasmus+ Exchange, Romanian American University · 2021 — 2022
+
+SKILLS
+Python, C/C++, Bash, SQL, MATLAB, JavaScript, PyTorch, TensorFlow, Scikit-learn, Keras,
+Transformers, ASR, LLMs, Computer Vision, NLP, Speech Processing, Docker, KubeFlow, K8S,
+Jenkins, AWS, Streamlit, FastAPI, Git, Linux, REST APIs
+
+ACHIEVEMENTS & COMPETITIONS
+ICASSP 2023 — 2nd place, global competition
+Patented multimodal AI solution — Samsung R&D Institute Jordan
+SemEval-2022, Task 5 (YMAI) — 17th place globally
+
+----
+This is a plain-text stand-in generated from the website content.
+Replace this file with a polished PDF export of your CV when ready,
+then update profile.resume in src/data/profile.ts to point at it.

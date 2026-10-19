@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your AI engineering skills with a sleek, minimalist resume site designed for quick recruiter scanning, featuring a responsive layout and easy navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
