@@ -19,7 +19,8 @@ export const profile = {
     eyebrow: "Profile",
     paragraphs: [
       "I’m a Machine Learning Engineer with 4+ years of experience designing and shipping end-to-end ML systems, from early research through production deployment.",
-      "My work spans on-device AI, automatic speech recognition, and large language models — including leading Samsung’s on-device Arabic ASR for flagship smartphones and optimizing LLMs for on-device NPUs. Along the way I’ve filed a patent, placed in global research competitions, and mentored junior engineers.",
+      "Today, as a Senior AI/ML Engineer at channels by stc, I own AI products end to end — backend, frontend, and the machine learning itself — building a competitive pricing platform, an AI-driven commission engine, and warehouse optimization systems.",
+      "Before that, at Samsung R&D Institute Jordan, I led on-device Arabic ASR for Galaxy flagship phones and optimized LLMs for on-device NPUs — work that produced a patent and a 2nd-place finish at ICASSP 2023. I also mentored junior engineers and explored research in generative vision, speaker diarization, and spoken language understanding.",
     ],
   },
 
